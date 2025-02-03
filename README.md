@@ -1,28 +1,36 @@
-<h1 align="center">IOS Developer</h1>
+<h2 align="left">Hi 👋! My name is **Giyos Khaitov** and I'm a **Software Developer**, from **Tashkent, Uzbekistan**.</h2>
 
-## Hi there! I'm Giyas <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> :
+###
 
-I'm a passionate iOS Developer specializing in building high-quality iOS applications using Swift. I thrive on solving complex problems, helping businesses grow, and creating solutions that improve people's lives. I'm always open to collaborating on innovative and disruptive ideas that push boundaries. </br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giyoskhaitov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giyoskhaitov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out to me:
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Giyos Khaitov) 
-[![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
-[![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
 
-- 🛜: I'm currently working on my own app.
-- ⏳: Always ready to collaborate on exciting projects to enhance development experiences.
-- ⚡: Love attending meetups and conferences for learning and networking.
-- 💡: Enjoy brainstorming and working on innovative ideas.
-- 🌍: Passionate about creating apps that make a positive impact.
-- 🤝: Let's Connect!
+###
 
-## 💻 Tech Stack:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+</div>
 
-![Image](https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=orange)
-![Image](https://img.shields.io/badge/UIKit-FF4B3E?style=for-the-badge&logo=apple&logoColor=white)
-![Image](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=black)
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/giyoskhaitov/giyoskhaitov/output/snake.svg" alt="Snake animation" />
