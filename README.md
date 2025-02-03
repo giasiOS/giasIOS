@@ -12,7 +12,7 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🛜: I'm currently working on my own app.
+- 🛜: I'm currently working on my own apps.
 - ⏳: Always ready to collaborate on exciting projects to enhance development experiences.
 - ⚡: Love attending meetups and conferences for learning and networking.
 - 💡: Enjoy brainstorming and working on innovative ideas.
