@@ -6,7 +6,7 @@ I'm a passionate iOS Developer specializing in building high-quality iOS applica
 
 I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/Giyos Khaitov) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/giyos-Khaitov) 
 [![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
 [![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
 
