@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Giyas and I'm a IOS Developer, from Uzbekistan</h2>
 
-###
+## 👨🏻‍💻 About Me:
+
+
+
+## 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
