@@ -10,8 +10,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 [![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
 [![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
 
-## 💫 About Me:
-
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🛜: I'm currently working on my own app.
@@ -24,7 +22,9 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 
 ## 💻 Tech Stack:
 
+
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
@@ -32,7 +32,9 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  
 </div>
+
 
 ###
 
