@@ -6,13 +6,14 @@ I'm a passionate iOS Developer specializing in building high-quality iOS applica
 
 I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out to me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Giyos Khaitov) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/Giyos Khaitov) 
 [![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
 [![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
 
 
 ## 💻 Tech Stack:
 
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
@@ -29,12 +30,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giasIOS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
- [![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
-[![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giasIOS/giasIOS/output/github-snake-dark.svg" />
