@@ -23,6 +23,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 ## 💻 Tech Stack:
 
 ![Image](https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=orange)
-![Image](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-![Image](https://img.shields.io/badge/SwiftUI-FF4B3E?style=for-the-badge&logo=swift&logoColor=white)
+![Image](https://img.shields.io/badge/UIKit-FF4B3E?style=for-the-badge&logo=apple&logoColor=white)
+![Image](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=black)
 
