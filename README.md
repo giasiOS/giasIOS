@@ -1,6 +1,6 @@
 <h1 align="center">IOS Developer</h1>
 
-## Hi there!, <img src="https://raw.githubsercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there!👋, <img src="https://raw.githubsercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I'm a passionate iOS Developer specializing in building high-quality iOS applications using Swift and Objective-C. I thrive on solving complex problems, helping businesses grow, and creating solutions that improve people's lives. I'm always open to collaborating on innovative and disruptive ideas that push boundaries.
 
@@ -22,6 +22,6 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 
 ## ⚡️ Technologies
 
-![Image](https://image.shields.io/badge/Swift-FF2D20?style=for-the-badge&logo=swift&logoColor=orange)
+![Image](https://img.shields.io/badge/Swift-FF2D20?style=for-the-badge&logo=swift&logoColor=orange)
 
 
