@@ -1,10 +1,16 @@
-<h2 align="left">Hi 👋! My name is Giyas and I'm a IOS Developer, from Uzbekistan</h2>
+<h1 align="center">IOS Developer</h1>
 
-## 👨🏻‍💻 About Me:
-- 🛜: I'm currently working on my own project
-- 📚: Working as a ios developer since 2023
+## Hi there! I'm Giyas <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> :
 
-<div align="left">
+I'm a passionate iOS Developer specializing in building high-quality iOS applications using Swift. I thrive on solving complex problems, helping businesses grow, and creating solutions that improve people's lives. I'm always open to collaborating on innovative and disruptive ideas that push boundaries. </br>
+
+I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out to me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Giyos Khaitov) 
+[![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
+[![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
+
+
 ## 💻 Tech Stack:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
