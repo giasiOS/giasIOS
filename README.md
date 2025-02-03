@@ -10,6 +10,17 @@ I'm always open to new opportunities, collaborations, or just a friendly chat. F
 [![Instagram Badge](https://img.shields.io/badge/@gyaskhaitov-purple?style=flat&logo=instagram)](https://www.instagram.com/gyaskhaitov)
 [![Telegram Badge](https://img.shields.io/badge/@GiyasIOS-blue?style=flat&logo=telegram)](https://t.me/GiyasIOS)
 
+## 💫 About Me:
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- 🛜: I'm currently working on my own app.
+- ⏳: Always ready to collaborate on exciting projects to enhance development experiences.
+- ⚡: Love attending meetups and conferences for learning and networking.
+- 💡: Enjoy brainstorming and working on innovative ideas.
+- 🌍: Passionate about creating apps that make a positive impact.
+- 🤝: Let's Connect!
+
 
 ## 💻 Tech Stack:
 
